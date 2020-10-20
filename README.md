@@ -1,5 +1,6 @@
 # Mage
    	Game Design Document
+      https://github.com/Rllein1/Robson-Miguelles/blob/main/assets/images/logo.png
 
                	 
 ### Revision: 0.0.1 
@@ -58,18 +59,18 @@ This game design document describes the details for a multi-platform touch based
 *     Fonts
 *     Audio / Music  
 *     Graphics
-##1.	Characters
+## 1.	Characters
 *         Little mage (idle, walking, running)
 *         Normal mage (idle, walking, running).
 *         Black mage (idle, walking, flying)
  
-##2.	Blocks
+## 2.	Blocks
 * a.	Dirt
 * b.	Dirt/Grass
 * c. 	Stone Block
 * d.	Stone Bricks
  
-##3.	Ambient (Background)
+## 3.	Ambient (Background)
 * a.	Tall Grass
 * b.	Old Trees
 * c. 	Torch

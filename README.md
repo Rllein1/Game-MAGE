@@ -1,6 +1,6 @@
 # Mage
    	Game Design Document
-![banner-01]https://github.com/Rllein1/Robson-Miguelles/blob/main/assets/images/logo.png
+!https://github.com/Rllein1/Robson-Miguelles/blob/main/assets/images/logo.png
 
                	 
 ### Revision: 0.0.1 

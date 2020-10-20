@@ -64,21 +64,23 @@ This game design document describes the details for a multi-platform touch based
 *     Graphics
 ## 1.	Characters
 *         Little mage (idle, walking, running)
-*         Normal mage (idle, walking, running).
-*         Black mage (idle, walking, flying)
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/apex.png?raw=true)
+*         Black mage (idle, flying)
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/bosschar.png?raw=true)
+*         Bat (idle, flying)
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/bat.png?raw=true)
+## 2.	Skill
+* a. Skill 1
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/ice.png?raw=true)
+* b.	Skill 2
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/icefall.png?raw=true)
+* c. Skill 3
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/sword.png?raw=true)
  
-## 2.	Blocks
-* a.	Dirt
-* b.	Dirt/Grass
-* c. 	Stone Block
-* d.	Stone Bricks
- 
-## 3.	Ambient (Background)
-* a.	Tall Grass
-* b.	Old Trees
-* c. 	Torch
-* d.	Crow and bats
- 
+## 3.	Background
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/rarara1.png?raw=true) 
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/rarara2.png?raw=true) 
+![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/rarara3.png?raw=true) 
 # Demographics
 * Age: 12 to 50 , Sex: Everyone, Casual players mostly.
 # Platforms & Monetization

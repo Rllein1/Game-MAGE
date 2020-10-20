@@ -1,5 +1,5 @@
 # Mage
-  Game Design Document
+
 ![](https://github.com/Rllein1/Game-MAGE/blob/main/assets/images/logo.png?raw=true)
 
 
